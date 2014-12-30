@@ -8,8 +8,8 @@ import oracle.jdbc.pool.OracleDataSource;
 
 /**
  * @author Bhavin
- * This class executes the eighth query which helps the student
- * drop a certain class 
+ * This class executes the a query which helps the student
+ * to drop a certain class 
  */
 public class Eighth {
 
